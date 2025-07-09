@@ -1,0 +1,8 @@
+| Filename                    | Content                                                            |
+| --------------------------- | ------------------------------------------------------------------ |
+| `01_select_from.sql`        | Basic `SELECT` queries from single table                           |
+| `02_where_and_or.sql`       | Filtering data using `WHERE`, `AND`, `OR`, `IN`, `BETWEEN`, `LIKE` |
+| `03_order_by_limit.sql`     | Sorting with `ORDER BY`, limiting with `LIMIT`                     |
+| `04_joins_inner_outer.sql`  | Examples of `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `CROSS JOIN`  |
+| `05_null_handling.sql`      | Handling `NULL` with `IS NULL`, `IS NOT NULL`, `COALESCE()`        |
+| `06_basic_aggregations.sql` | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` with and without `GROUP BY`    |
