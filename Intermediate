@@ -1,0 +1,9 @@
+| Filename                    | Content                                                             |
+| --------------------------- | ------------------------------------------------------------------- |
+| `01_group_by_having.sql`    | Aggregating data with `GROUP BY`, filtering groups using `HAVING`   |
+| `02_subqueries.sql`         | Subqueries in `SELECT`, `FROM`, `WHERE` clauses                     |
+| `03_case_when.sql`          | Conditional logic using `CASE WHEN THEN ELSE END`                   |
+| `04_string_functions.sql`   | `CONCAT`, `SUBSTRING`, `REPLACE`, `LENGTH`, `TRIM`                  |
+| `05_date_functions.sql`     | `NOW()`, `DATE_FORMAT()`, `DATEDIFF()`, `YEAR()`, etc.              |
+| `06_set_operators.sql`      | `UNION`, `INTERSECT`, `EXCEPT` (note: MySQL supports `UNION [ALL]`) |
+| `07_aliases_and_nested.sql` | Aliasing tables and nesting SELECTs                                 |
